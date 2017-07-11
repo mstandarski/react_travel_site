@@ -1,0 +1,11 @@
+#flagicon {
+  width: 100%;
+  height: 100%;
+}
+
+#flag {
+    color: white;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+}
